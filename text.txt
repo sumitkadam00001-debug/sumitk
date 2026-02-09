@@ -1,0 +1,10 @@
+this is a master branch line 2
+<<<<<<< HEAD
+this is a master 
+
+hello from feature 
+=======
+this is a master branch
+
+hello from feature 2
+>>>>>>> feature-2
